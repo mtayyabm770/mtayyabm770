@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mtayyabm770
+- My name is Tayyab.
+- I'm a Frontend developer
+- I know Angular, Ionic, HTML, CSS, JS, TS and have basic knowledge of PHP.
