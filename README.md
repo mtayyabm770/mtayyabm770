@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Tayyab (@mtayyabm770)
 - I'm a Frontend developer.
-- I know Angular, Ionic, HTML, CSS, JS, TS and have basic knowledge of PHP.
+- I know Angular, Ionic, HTML, CSS, JS, TS and have recently started exploring ASP.NET.
